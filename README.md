@@ -31,7 +31,7 @@ Esto lleva rápidamente a una explosión combinatoria de subclases difíciles de
 **Solución**  
 Se aplicó el patrón **Bridge**, que permite dividir una clase grande, o un grupo de clases estrechamente relacionadas, en dos jerarquías separadas (abstracción e implementación) que pueden desarrollarse independientemente la una de la otra.
 
-![Escenario 2](./uml/Escenario 2 patron brigde.png)
+![Escenario 2](./uml/Escenario-2-patron-brigde.png)
 
 ---
 
@@ -46,6 +46,6 @@ Sin un mediador, cada usuario tendría que mantener referencias directas a todos
 **Solución**  
 Se utilizó el patrón **Mediator** , que centraliza la comunicación entre los usuarios a través de un objeto mediador. El patrón restringe las comunicaciones directas entre los objetos, forzándolos a colaborar únicamente a través de un objeto mediador.
 
-![Escenario 3](./uml/Diagrama de clases escenario 3.drawio.png)
+![Escenario 3](./uml/Diagrama-de-clases-escenario-3.drawio.png)
 
 ---
