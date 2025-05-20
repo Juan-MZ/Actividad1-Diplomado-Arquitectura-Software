@@ -1,6 +1,6 @@
 package co.edu.unisabana.tarea1.escenario1;
 
-public interface IEnsamblador {
+public interface IBuilder {
 
     void inicializar();
     void configurarTipoMotor(String tipoMotor);

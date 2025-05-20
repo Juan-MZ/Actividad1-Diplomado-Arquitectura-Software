@@ -1,10 +1,10 @@
 package co.edu.unisabana.tarea1.escenario1;
 
-public class EnsambladorVehiculo implements IEnsamblador{
+public class VehiculoBuilder implements IBuilder {
 
     private Vehiculo vehiculo;
 
-    public EnsambladorVehiculo() {
+    public VehiculoBuilder() {
         this.inicializar();
     }
 

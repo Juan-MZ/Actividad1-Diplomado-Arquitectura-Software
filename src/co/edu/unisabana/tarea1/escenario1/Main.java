@@ -3,7 +3,7 @@ package co.edu.unisabana.tarea1.escenario1;
 public class Main {
 
     public static void main(String[] args) {
-        IEnsamblador ensamblador = new EnsambladorVehiculo();
+        IBuilder ensamblador = new VehiculoBuilder();
         //Vehículo Cliente 1
         ensamblador.configurarColor("Rojo");
         ensamblador.configurarInteriores("Estándard");
