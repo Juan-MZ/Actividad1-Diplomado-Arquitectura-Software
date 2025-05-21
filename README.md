@@ -1,4 +1,11 @@
 # Trabajo patrones de diseño - Equipo Java
+### Equipo
+- Juan Manuel Fraile
+- Juan José Medicis
+- Sergio Esneyder Corredor
+- John Edison Sanchez
+- Julian Garzon
+- Didier Carvajal
 
 ## Escenario 1: Configuración de Automóviles
 
